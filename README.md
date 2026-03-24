@@ -6,7 +6,6 @@ Tracks books, members, and issue/return transactions with a fully interactive co
 ## ✅ Features
 
 - Add books and members
-- Search books by ISBN
 - Issue and return books
 - Display all books, members, and issued book transactions
 - Tracks which member issued which book (with member name)
@@ -23,7 +22,7 @@ Tracks books, members, and issue/return transactions with a fully interactive co
 1. Make sure Java (JDK 8+) is installed.  
 2. Clone the repository:  
    ```bash
-   git clone https://github.com/ArmanKhan-Programmer/Library_Management_System.git
+   git clone https://github.com/yashraj0902/Library_Management_System.git
 3. Navigate to src/ folder:  
    ```bash
    cd Library_Management_System/src
@@ -57,17 +56,8 @@ Tracks books, members, and issue/return transactions with a fully interactive co
 - Enter 5: To issue a book to a member.
 - Enter 6: To display all issued books.
 - Enter 7: To return a book by a member.
-- Enter 0: To exit the program.  
-
-## ⚡ Notes
-
-   ✔️ Make sure to enter correct Member ID and ISBN (without extra spaces).  
-   ✔️ This project is built for learning purposes and demonstration of OOP in Java. 
+- Enter 0: To exit the program. 
 
 ## ✅ Author
 
-   Arman Khan
-
-## 📜 License
-
-   This project is open-source and free to use.   
+   Yashraj Jadhav   
